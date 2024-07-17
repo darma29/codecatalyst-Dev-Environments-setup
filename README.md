@@ -8,7 +8,7 @@ This repository includes a simple setup script for configuring the codecatalyst 
 To set up the environment, run the following commands:
 
 ```sh
-git clone https://github.com/darma29/codecatalyst-Dev-Environments-setup.git && cd codecatalyst-devenv-setup && chmod +x init_setup.bash && source init_setup.bash && cd codecatalyst-devenv-setup && chmod +x devfile_start.bash && ./devfile_start.bash
+git clone https://github.com/darma29/codecatalyst-Dev-Environments-setup.git && cd codecatalyst-Dev-Environments-setup && chmod +x init_setup.bash && source init_setup.bash && cd codecatalyst-Dev-Environments-setup && chmod +x devfile_start.bash && ./devfile_start.bash
 
 ```
 
